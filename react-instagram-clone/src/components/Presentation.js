@@ -23,8 +23,6 @@ function Presentation() {
                         />        
                         NAME
                         </div>
-                        
-                        
                     ))}
                 </div>
                 <div className="slider__arrow-right">
